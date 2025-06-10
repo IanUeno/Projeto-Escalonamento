@@ -46,7 +46,7 @@ O objetivo é mostrar, de forma lúdica, como funcionam os conceitos de **escalo
 ### 5. Executar o jogo
 - Abra o terminal no VS Code ou no sistema operacional e digite:
 - 
-python SisEscalonamento.py
+python ProjetoEscalonamento.py
 
 ---
 
